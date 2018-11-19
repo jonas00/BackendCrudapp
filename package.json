@@ -1,0 +1,24 @@
+{
+  "name": "backendcrud",
+  "version": "1.0.0",
+  "private": true,
+  "description": "crudApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "jsonwebtoken": "^8.4.0",
+    "migrate": "^1.6.2",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.4",
+    "sequelize": "^4.41.2",
+    "sequelize-cli": "^4.1.1",
+    "uuid": "^3.3.2"
+  }
+}
